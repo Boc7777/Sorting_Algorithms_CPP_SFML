@@ -1,8 +1,8 @@
 ﻿  sort.cpp
-C:\Users\48664\Desktop\sort\sort\sort.cpp(32,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-C:\Users\48664\Desktop\sort\sort\sort.cpp(43,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
-C:\Users\48664\Desktop\sort\sort\sort.cpp(62,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
-C:\Users\48664\Desktop\sort\sort\sort.cpp(63,7): warning C4101: "pomocnicza": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\48664\Desktop\sort\sort\sort.cpp(33,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\48664\Desktop\sort\sort\sort.cpp(44,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\48664\Desktop\sort\sort\sort.cpp(63,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\48664\Desktop\sort\sort\sort.cpp(64,7): warning C4101: "pomocnicza": lokalna zmienna, do której nie istnieje odwołanie
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103): warning C4244: "argument": konwersja z "_Ty" do "float", możliwa utrata danych
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103): warning C4244:         with
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103): warning C4244:         [
@@ -11,7 +11,7 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.3351
   (kompilowanie pliku źródłowego „sort.cpp”)
   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(727,103):
   kontekst tworzenia wystąpienia szablonu (najpierw najstarszy) to
-  	C:\Users\48664\Desktop\sort\sort\sort.cpp(39,14):
+  	C:\Users\48664\Desktop\sort\sort\sort.cpp(40,14):
   	zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::vector<SortedUnit,std::allocator<SortedUnit>>::emplace_back<float,const int&,float&,int>(float &&,const int &,float &,int &&)” funkcji szablon
   	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\vector(862,24):
   	zobacz odwołanie do kompilowanego tworzenia wystąpienia „_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<float,const int&,float&,int>(float &&,const int &,float &,int &&)” funkcji szablon
